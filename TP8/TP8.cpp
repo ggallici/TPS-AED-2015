@@ -39,7 +39,7 @@ int main()
 
 bool esDiaCorrecto(unsigned d, unsigned m, int a)
 {
-	if(d<32 && m<12)
+	if(d<32 && m<=12)
     {
 		if(d<29)
 		{
