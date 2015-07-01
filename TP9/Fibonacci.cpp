@@ -1,3 +1,9 @@
+//*
+*Dinardi, Emiliano
+*Gallici, German
+*Orlando, Antonella
+*Liserre, Ariel
+
 #include <iostream>
 #include <cstdlib>
 #include <array>
