@@ -106,7 +106,7 @@ int main()
 
     cout << endl;
 
-    cout << "ESTA VACIA LA PILA???: ";
+    cout << "ESTA VACIA LA COLA???: ";
 
     if(estaVacia(cola))
     {
